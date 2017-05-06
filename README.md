@@ -2,7 +2,7 @@
 **[Cyber-Warrior.Org](https://www.cyber-warrior.org/) [AR-GE](https://www.cyber-warrior.org/Forum/GorevOrg_Ar-Ge.asp)** grubu tarafından geliştirilen, **konsol görünümlü** PHP SHELL yazılımdır.
 
 ## Kurulum
-Yukarıdan "Clone or download" seçeneğinden zip olarak indirin. İndirdiğiniz zip dosyasını arşivden çıkarın. Klasörün içerisinde bulunan "ShellV1.php" yazılımı kullanıma hazır halde gelmektedir.
+Yukarıdan "Clone or download" seçeneğinden zip olarak indirin. İndirdiğiniz zip dosyasını arşivden çıkarın. Klasörün içerisinde bulunan "**ShellV1.php**" yazılımı kullanıma hazır halde gelmektedir. Bazı sunucularda kodlar zararlı olarak algılandığında "**ShellV1_Encrypted.php**" dosyasını kullanabilirsiniz. Bu dosya şifrelenmiş olduğu için tespit edilmeyecektir.
 
 Sisteme giriş şifresini **6. satırda** yer alan **$girisSifre = "demo";** bölümündeki "**demo**" kısmına kullanmak istediğiniz şifreyi yazarak değiştirebilirsiniz.
 
