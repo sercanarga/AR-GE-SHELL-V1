@@ -21,18 +21,6 @@ Sisteme giriş şifresini **6. satırda** yer alan **$girisSifre = "demo";** bö
 * **klasoryarat:** Dizine belirlenen klasörleri yaratır. **klasoryarat [klasorismi] [klasorismi2]..** şeklinde de kullanılabilir.
 * **klasorsil:** Dizindeki belirlenen klasörleri siler. **klasorsil [klasorismi] [klasorismi2]..** şeklinde de kullanılabilir.
 
-## Bir Sonraki Versiyonda Yapılması Planlanan Özellikler
-* Eksiklerin biz de farkındayız. Bir sonraki versiyona şu özellikleri de yapsanız iyi olur dediğiniz şeyler var ise sercanarga@protonmail.com adresinden mail yolu ile ulaştırabilirsiniz. Sizlerden gelen veya bizim bir sonraki versiyona planladığımız özellikler aşağıda maddeler halinde yer almaktadır.
-
-* **Metin Editörü:** Dosya içeriğini düzenleyebileceğimiz bir komut şu anki versiyonda(V1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **MySQL Bağlantısı:** MySQL Bağlantısı için kullanabileceğimiz bir komut şu anki versiyonda(V1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **FTP Bağlantısı:** FTP Bağlantısı için kullanabileceğimiz bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **URL Adresinden İçerik Aktarımı:** Belirlediğimiz dosyanın içeriğini, girdiğimiz URL adresindeki dosya içeriği ile değiştirmemizi sağlayacak bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **Çoklu Dil Desteği:** İngilizce Ve Türkçe Dilleri arasında geçiş yapabilmemizi sağlayacak bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **Çoklu Tema Desteği:** Şu Anki Koyu(Dark) tema dışında Açık(light) tema arasında geçiş yapabilmemizi sağlayacak bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **Log Kayıt:** Yaptığınız işlemleri sırasıyla kaydeden, istediğimiz zaman yapılan işlemleri indirmemizi sağlayacak bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-* **Müzik Oynatma:** Belirlediğimiz Embed URL adresindeki parçayı oynatmayı sağlayacak bir komut şu anki versiyonda(v1) bulunmamaktadır. Bir sonraki versiyonda bu özelliğin eklenmesi planlanmıştır.
-
 ## Kullanım Şartları
 * Bu yazılımı kullanarak aşağıda yer alan kullanım şartını kabul etmiş sayılırsınız.
 * Bu yazılım hiçbir lisans dahil edilmeden tamamen eğitim amaçlı hazırlanmıştır. Kötüye kullanımı halinde yazılım sahibi hiçbir sorumluluk kabul etmemektedir.
